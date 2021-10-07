@@ -2,3 +2,5 @@ Project Name: [How well does FIFA Player Ratings contribute towards predicting P
 
 Group Members: Prat Kothiyal (pk383), Bjorn Teo (jt667), Ignacio Arevalo (iaa26)
 
+(Edit: ignore title of the file, our new project idea is the Fifa one)
+
